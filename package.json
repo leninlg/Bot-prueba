@@ -1,0 +1,15 @@
+{
+  "name": "bot-prueba",
+  "version": "1.0.0",
+  "description": "Bot de prueba con whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "leninlg",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-web.js": "^1.22.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
